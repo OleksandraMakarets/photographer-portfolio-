@@ -98,3 +98,13 @@ Tailored to appeal to potential clients, collaborators, and photography enthusia
   - As a returning visitor, I want to explore new blog posts or updates to stay informed about the photographer's recent projects, events, or promotions.
   - As a mobile user, I want the website to be responsive and optimized for smaller screens, ensuring a seamless browsing experience on my smartphone or tablet.
   - As a visitor looking for specific types of photography, I want to use filters or categories to narrow down the portfolio and find projects that match my interests or preferences.
+
+   ## Testing
+
+- I tested that this website works in different browsers: Chrome, Opera, Safari.
+- On mobile devices, I tested the my site on a Samsung Galaxy A33 5G a with the Samsung browser and an iPhone 12Pro with the Safari browser.
+- I confirmed that this project is responsive, looks good and functions on all standard screen sizes using the devtools device toolbar.
+- I confirmed that navigation, home, about, servises, gallery, and contact text are all readable and easy to understand.
+- I have confirmed that the form works: requires in every field, will only accept an emailin the email field, and the submit button works.
+- Using accessibility tools (e.g., screen readers, keyboard navigation) confirms that the website is accessible, with alt text provided for images and proper HTML semantics implemented for improved accessibility.
+- The gallery grid displays thumbnail images of photography projects in a visually appealing layout, allowing visitors to browse through the photographer's work effortlessly.
