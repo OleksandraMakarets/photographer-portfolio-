@@ -82,3 +82,19 @@ Tailored to appeal to potential clients, collaborators, and photography enthusia
 ### Features Left to Implement
 
 - __Quick form of payment on the website through well-known payment systems of the world.__
+
+## UX
+
+- There are two broad groups of users targeted at this website. The first group is individuals, which include: models, actors, families, couples in love, ordinary people. The second large group is companies that include: professional branding people, large and small business companies, advertising and marketing agencies.
+- The site is focused on simplicity and ease of navigation according to the main directions of the user's attention in the gallery of the photographer's works and the possibility to contact him.
+
+## User Stories
+
+- As the developer of this site, I aim to provide users with access to all information about the photographer and his portfolio. And also help the photographer quickly find new clients.I came up with the following points, which are applicable to the users:
+  - As a potential client, I want to easily navigate through the photographer's portfolio to view samples of their work and assess their photography style.
+  - As a photography enthusiast, I want to learn more about the photographer's background, experience, and creative process to gain insights and inspiration.
+  - As a prospective collaborator or partner, I want to read testimonials or client reviews to evaluate the photographer's professionalism, reliability, and quality of work.
+  - As a visitor interested in booking a session, I want to find clear contact information and a user-friendly contact form to inquire about services, availability, and pricing.
+  - As a returning visitor, I want to explore new blog posts or updates to stay informed about the photographer's recent projects, events, or promotions.
+  - As a mobile user, I want the website to be responsive and optimized for smaller screens, ensuring a seamless browsing experience on my smartphone or tablet.
+  - As a visitor looking for specific types of photography, I want to use filters or categories to narrow down the portfolio and find projects that match my interests or preferences.
