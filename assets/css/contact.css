@@ -61,3 +61,14 @@
 .contact-left button:hover{
     transform: scale(0.9);
 }
+
+/*-- media for contact section  --*/
+
+@media (max-width:800px){
+    .contact-inputs{
+        width: 80vw;
+    }
+    .contact-right{
+        display: none;
+    }
+}
