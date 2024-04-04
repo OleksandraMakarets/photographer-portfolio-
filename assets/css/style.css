@@ -19,13 +19,23 @@ html, body{
     display: flex;
     flex-direction: column;
 }
-header{
-    background-color: aqua;
-}
 main{
     background-color: bisque;
     flex: 1 0 auto;
 }
 footer{
     background-color: blue;
+}
+/*-- Header, navbar --*/
+
+nav{
+    padding: 10px 30px;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background: #26c4cd;
+    box-shadow: 0 5px 10px #6fccd1;
+    position: relative;
+    height: 70px;
+    z-index: 100;
 }
