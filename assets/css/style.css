@@ -113,3 +113,7 @@ nav ul li a.active{
     display: block;
     transition: .3s;
 }
+.list ul li a:hover{
+    color: #F1E805;
+    transform: translateX(14px);
+}
