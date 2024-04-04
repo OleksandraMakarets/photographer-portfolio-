@@ -168,7 +168,66 @@ nav ul li a.active{
     background-size: contain;
     background-position: 83%;
     height: 100%; 
-   margin-bottom: 20px;
+    margin-bottom: 20px;
+}
+
+/*-- numbers block style --*/ 
+
+.numbers{
+    margin-top: 20px;
+}
+.num-title{
+    text-align: center;
+}
+.num-title h2{
+    font-size: 35px;
+}
+.num-title span{
+    color: #26c4cd;
+}
+.block h3{
+    position: absolute;
+    font-size: 22px;
+    font-weight: 600;
+    text-align: right;
+    color:#cac41d;
+    top:36px;
+    right: 40px;
+}
+.block h4{
+    color:#0b0a0af1;
+    letter-spacing: 2px;
+    margin: 10px 0;
+}
+.numbers-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    grid-gap:2rem;
+    align-items: center;
+    text-align: center;
+    margin-top: 5rem;
+}
+.block{
+    margin-bottom: 30px;
+    position: relative;
+    transition: all .3s cubic-bezier(.445, .05, .55, .95);
+    will-change: filter;
+    cursor: pointer;
+    
+}
+.block img{
+    width: 100%;
+    height: auto;
+}
+#contact{
+    background: #1d1e1ee8;
+}
+.main{
+    display: flex;
+    flex-wrap: wrap;
+    margin-left: 10%;
+    margin-top: 5%;
+    margin-bottom: 5%;
 }
 
 /*-- footer style --*/
