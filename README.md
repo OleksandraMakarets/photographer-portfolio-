@@ -144,3 +144,11 @@ Tailored to appeal to potential clients, collaborators, and photography enthusia
 ### Unfixed Bugs
 
 - No unfixed bugs.
+
+## Technologies
+
+- HTML - To create a basic site.
+- CSS - To create a nice, standout front-end and to give a great user experience.
+- Web3 Forms - to create an active form.
+- Canva - to to create a favicon.
+- GitHub - to deploy the project. 
