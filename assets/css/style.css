@@ -158,6 +158,18 @@ nav ul li a.active{
 .btn:hover{
     transform: scale(0.9);
 }
+.home-img{
+    width: 30vw;
+    height: 30vh;
+}
+.home-img{
+    flex: 1;
+    background: url('../images/aleksandra\ new.jpg') no-repeat; 
+    background-size: contain;
+    background-position: 83%;
+    height: 100%; 
+   margin-bottom: 20px;
+}
 
 /*-- footer style --*/
 
