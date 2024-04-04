@@ -108,3 +108,18 @@ Tailored to appeal to potential clients, collaborators, and photography enthusia
 - I have confirmed that the form works: requires in every field, will only accept an emailin the email field, and the submit button works.
 - Using accessibility tools (e.g., screen readers, keyboard navigation) confirms that the website is accessible, with alt text provided for images and proper HTML semantics implemented for improved accessibility.
 - The gallery grid displays thumbnail images of photography projects in a visually appealing layout, allowing visitors to browse through the photographer's work effortlessly.
+
+- __HTML__ No errors found for all pages using the [W3C validator.](https://validator.w3.org/#validate_by_input) 
+   - [Home page](media/indexchecker.png)
+   - [About page](media/aboutchcker.png)
+   - [Servises page](media/serviseschecker.png)
+   - [Gallery page](media/gallerychecker.png)
+   - [Contact page](media/contactchecker.png)
+  
+- __CSS__  No errors were found when passing through the official [(Jigsaw) validator](https://jigsaw.w3.org/css-validator/validator.html.en)
+    - [Home page](media/indexvalidator.png)
+    - [About page](media/aboutvalidator.png)
+    - [Servises page](media/servisesvalidator.png)
+    - [Gallery page](media/galleryvalidator.png)
+    - [Contact page](media/contactsvalidator.png)
+- __Accessibility__   I confirmed that the colors and fonts chosen are easy to read and accessible by running it through [Lighthouse DevTools](media/lighthouse.png)
