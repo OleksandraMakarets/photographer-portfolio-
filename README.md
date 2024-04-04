@@ -128,16 +128,16 @@ Tailored to appeal to potential clients, collaborators, and photography enthusia
 
 #### Solved bugs
   
-- The coding sequence was broken, the parent tag had incorrect child tags. This error was in the navigation bar, which is why the errors were on every page of the site.
-  ![First Bug](media/firstbug.png)
+1. The coding sequence was broken, the parent tag had incorrect child tags. This error was in the navigation bar, which is why the errors were on every page of the site.
+    ![First Bug](media/firsbug.png)
   - I refactored this code, then wrote down the correct tags for all elements./ fixed the problem.
-- File naming for multiple images is broken.
-  - ![Second Bug](media/secondbug.png)
+2. File naming for multiple images is broken.
+    ![Second Bug](media/secondbug.png)
   - Renamed the files in accordance with the standard./ fixed the problem.
-- There were invalid or empty attributes to the input element on the contact page.
-  - ![Thirt Bug](media/thirtbug.png)
+3.  There were invalid or empty attributes to the input element on the contact page.
+    ![Thirt Bug](media/thirdbug.png)
   - Fixed the problem.
-- There were missing comments for individual code blocks and sections, both in the HTML file and in the CSS
+4. There were missing comments for individual code blocks and sections, both in the HTML file and in the CSS
   - Added comments according to code blocks.
 
   
