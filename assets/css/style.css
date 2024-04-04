@@ -70,3 +70,15 @@ nav ul li a:hover{
 nav ul li a.active{
     color:#76755fe2;
 }
+.menu-icon {
+    display: none;
+}
+.menu-icon i{
+    color: #f0f8ff;
+    font-size: 30px;
+    display: none;
+    cursor: pointer;
+}
+#click{
+    display: none;
+}
