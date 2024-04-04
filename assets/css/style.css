@@ -333,3 +333,38 @@ nav ul li a.active{
         margin-bottom: 12px;
     }
 }
+
+/*- Media header, navbar max-width:778px --*/
+
+@media(max-width:778px){
+    #click:checked + .menu-icon i:before {
+        content: "✕";
+        font-weight: 700;
+    }
+    nav ul{
+        position: absolute;
+        top: 70px;
+        left: -160%;
+        right: 0;
+        flex-direction: column;
+        text-align: center;
+        text-align: center;
+        gap: 0;
+        transition: all 0.3s ease;
+    }
+    #click:checked ~ ul{
+        left: 0%;
+        background: #26c4cd;
+    }
+    nav ul li{
+        padding: 20px;
+    }
+    .menu-icon {
+        display: block;
+    }
+    .menu-icon i{
+        color: #f0f8ff;
+        font-size: 30px;
+        display: block;
+    }
+}
