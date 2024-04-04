@@ -81,6 +81,66 @@ nav ul li a.active{
     display: none;
 }
 
+/*-- main home section style --*/
+
+.section-container {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    align-items: center;
+    height: 100vh; 
+    margin-top: 70px;
+    width: 100%;
+}
+.home-text{
+    flex: 1;
+    text-align: left;
+    padding: 20px;
+    padding-left: 12%;
+}
+.home-text h1{
+    font-size: 46px;
+    font-weight: 700;
+    margin: 0 0 8px;
+}
+.home-text h3{
+    color: #26c4cd;
+    margin: 0 0 35px;
+    font-size: 33px;
+    font-weight: 500;
+    line-height: 1.1;
+    letter-spacing: 1px;
+    text-transform: uppercase;
+}
+.home-text p{
+    font-size: 18px;
+    line-height: 1.8;
+    margin-bottom: 40px;
+    font-weight: 400;
+    color: black;
+}
+.slide{
+    margin-bottom: 20px;
+}
+.one{
+    display: inline-block;
+    margin-right: 15px;
+    height: 32px;
+    padding: 0 15px;
+    line-height: 32px;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+    background: #26c4cd;
+    color: #f0f8ff;
+}
+ .two{
+    display: inline-block;
+    color: #0b0a0af1;
+    font-size: 20px;
+    font-weight: 500;
+}
+
 /*-- footer style --*/
 
 .footer{
