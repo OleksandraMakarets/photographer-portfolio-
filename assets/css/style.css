@@ -67,3 +67,6 @@ nav ul li a:hover{
     transition: all .3s;
     color:#F1E805;
 }
+nav ul li a.active{
+    color:#76755fe2;
+}
