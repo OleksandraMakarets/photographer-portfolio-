@@ -324,3 +324,12 @@ nav ul li a.active{
     justify-content: center;
     }
 }
+
+/*-- Footer Media max-width:1040px --*/
+
+@media (max-width:1040px){
+    .list{
+        width: 50%;
+        margin-bottom: 12px;
+    }
+}
