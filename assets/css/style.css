@@ -132,3 +132,12 @@ nav ul li a.active{
 .list .social a:hover{
     transform: scale(1.06);
 }
+.end-text{
+    text-align: center;
+    padding-bottom: 50px;
+}
+.end-text p{
+    color: #c4c5c6;
+    font-size: 14px;
+    letter-spacing: 2px;
+}
