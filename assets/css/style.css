@@ -86,3 +86,30 @@ nav ul li a.active{
 .footer{
     padding: 20px 0;
 }
+.list{
+    width: 25%;
+    
+}
+.list h4{
+    font-size: 18px;
+    color: #f0f8ff;
+    margin-bottom: 30px;
+    position: relative;
+}
+.list h4::before{
+    content: '';
+    position: absolute;
+    height: 2px;
+    width: 60px;
+    left: 0;
+    bottom: -10px;
+    background: #26c4cd;
+}
+.list ul li:not(:last-child){
+    margin-bottom: 16px;
+}
+.list ul li a{
+    color: #f0f8ff;
+    display: block;
+    transition: .3s;
+}
