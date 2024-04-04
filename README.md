@@ -162,4 +162,21 @@ Tailored to appeal to potential clients, collaborators, and photography enthusia
 
 The live link can be found here -  [Photographer website](https://oleksandramakarets.github.io/photographer-portfolio-/index.html)  
 
+## Credits
+
+### Content
+
+- The text for the Home page was taken from Chat GPT.
+- The gallery creation code is taken from [YouTube](https://www.youtube.com/watch?v=MSrNKDbSRdg).
+- I created a contact page using this code [YouTube](https://www.youtube.com/watch?v=-HeadgoqJ7A);
+- I used this video to create an adaptive navbar[YouTube](https://www.youtube.com/watch?v=7pbSlHysO-c).
+- The icons in the footer were taken from [Boxicons](https://boxicons.com/usage).
+  
+### Media
+
+- The images in the some numbers page were taken from [Canva](https://www.canva.com/).
+- The images in the services page were taken from [Pixabay](https://pixabay.com/images/search/deal/?order=ec).
+- The images in the gallery page were taken from [StockSnap.io](https://stocksnap.io/).
+
+
 
