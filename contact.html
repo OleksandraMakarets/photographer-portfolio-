@@ -1,6 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
+
     <meta charset="UTF-8">
     <meta http-equiv="X-UA-Compatible" content="IE=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
@@ -14,10 +15,15 @@
     <link rel="icon" type="image/png" sizes="32x32" href="assets/favicon/favicon-32x32.png">
     <link rel="icon" type="image/png" sizes="16x16" href="assets/favicon/favicon-16x16.png">
     <title>Aleksandra Makarets - photogpher</title>
+
 </head>
+
 <body>
+
     <!--header navbar-->
+
     <header>
+
         <nav>
             <div class="logo">
                 <a href="index.html">A.Makarets</a>
@@ -33,14 +39,44 @@
                 <li><a href="gallery.html">Gallery</a></li>
                 <li><a href="contact.html" class="active">Contact</a></li>
             </ul>
+            
         </nav>
+
     </header>
 
-     <!--header navbar-->
-    <main>Main</main>
+    <!--contact section--> 
+
+    <main>
+
+        <section class="contact">
+
+            <div class="contact-container">
+                <form action="https://api.web3forms.com/submit" method="POST" class="contact-left">
+                    <div class="contact-left-title">
+                        <h2>Get in touch</h2>
+                        <hr>
+                    </div>
+                    <input type="hidden" name="access_key" value="a833d22f-fba0-4391-bde2-4f7d15dcda20">
+                    <input type="text" name="name" placeholder="Name*" class="contact-inputs" required>
+                    <input type="email" name="email" placeholder="E-mail*" class="contact-inputs" required>
+                    <input type="text" name="phone" placeholder="Phone*" class="contact-inputs" required>
+                    <textarea name="message" cols="46" rows="10" placeholder="Message" class="contact-inputs" required></textarea>
+                    <button type="submit">Submit</button>
+                </form>
+                <div class="contact-right">
+                    <img src="assets/images/about-camera-image-370x500.png" alt="camera">
+                </div>
+
+            </div>
+
+        </section>
+
+    </main>
 
      <!-- footer -->
+
     <footer id="contact">
+
         <div class="footer">
             <div class="main">
                 <div class="list">
@@ -95,6 +131,9 @@
         <div class="end-text">
             <p>Copyright &copy;2024 All rights reserved | Made by Aleksandra Makarets</p>
         </div>
+
     </footer>
+
 </body>
+
 </html>
