@@ -140,6 +140,24 @@ nav ul li a.active{
     font-size: 20px;
     font-weight: 500;
 }
+.button{
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+}
+.btn{
+    display: inline-block;
+    padding: 12px 28px;
+    background: #26c4cd;
+    border-radius: 5px;
+    color: #f0f8ff;
+    letter-spacing: 1px;
+    font-weight: 600;
+    transition: all .45s ease;
+}
+.btn:hover{
+    transform: scale(0.9);
+}
 
 /*-- footer style --*/
 
