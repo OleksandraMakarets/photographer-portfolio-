@@ -49,3 +49,57 @@
 .title span{
     color: #26c4cd;
 }
+
+/*-- price block style --*/
+
+.servises-content{
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(200px, auto));
+    grid-gap:2rem;
+    align-items: center;
+    text-align: center;
+    margin-top: 5rem;
+    margin-bottom: 5rem;
+    
+}
+.thum{
+    position: relative;
+    transition: all .3s cubic-bezier(.445, .05, .55, .95);
+    will-change: filter;
+    cursor: pointer;
+    
+}
+.thum img{
+    width: 100%;
+    height: auto;
+}
+.thum h3{
+    position: absolute;
+    font-size: 30px;
+    font-weight: 600;
+    color:#26c4cd;
+    top:36px;
+    right: 40px;
+}
+.thum h4{
+    color:#cfc90d;
+    letter-spacing: 2px;
+    margin: 20px 0;
+}
+.describle{
+    margin-bottom: 20px;
+}
+.describle i{
+    color:#cfc90d;
+    margin-bottom: 15px;
+}
+.describle ul li:not(:last-child){
+    margin-bottom: 16px;
+}
+.describle ul li a i{
+    display: block;
+    transition: .3s;
+}
+.describle ul li a{
+    color: black;
+}
