@@ -129,3 +129,6 @@ nav ul li a.active{
     border-radius: 15px;
     transition: .3s;
 }
+.list .social a:hover{
+    transform: scale(1.06);
+}
